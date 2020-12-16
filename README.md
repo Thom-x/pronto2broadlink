@@ -1,6 +1,5 @@
 # Pronto to broadlink
 
-[![Build Status](https://travis-ci.org/Thom-x/pronto2broadlink.svg?branch=master)](https://travis-ci.org/Thom-x/pronto2broadlink)
 ![](https://images.microbadger.com/badges/image/thomx/pronto2broadlink.svg)
 ![](https://images.microbadger.com/badges/version/thomx/pronto2broadlink.svg)
 ![GitHub](https://img.shields.io/github/license/Thom-x/pronto2broadlink)
